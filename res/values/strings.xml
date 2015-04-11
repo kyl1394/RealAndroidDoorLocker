@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Door Locker</string>
+    <string name="unlockButtonString">UNLOCK</string>
+    <string name="lockButtonString">LOCK</string>
+    <string name="mainDisplayImageDescription">App Icon Display</string>
+</resources>
