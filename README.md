@@ -1,0 +1,1 @@
+This project was designed as an experiment in creating a cheap easy solution for remote entry into your house. Using a customized device that fits over your existing lock, we can be able to unlock/lock our door using our smartphones (or any other device with an internet connection, including but not limited to smart watches)
